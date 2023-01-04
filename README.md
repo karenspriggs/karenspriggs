@@ -7,6 +7,7 @@
 - ✨ Fun fact: my profile picture is my dog, Kaito!
 - ✏️ I enjoy doing illustration and character art as a hobby, which you can see [here](https://karenspriggs.art/)
 - 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/karen-spriggs-2a914a217/) or email me at k.spriggs01@gmail.com 
+- 👩‍💻 I'm interested in starting work as a junior software developer once I graduate this May! 
 
 <!--
 **karenspriggs/karenspriggs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
