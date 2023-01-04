@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Karen! 👋 😄
 - 🔭 I’m currently working on a few things:
   - INARI, which you can play [here](https://bentocat.itch.io/inari)
   - Brain Agents, which you can learn more about [here](https://www.brainagents.org/)
