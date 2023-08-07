@@ -6,7 +6,6 @@
 - 🌱 I’m having fun learning web dev and data analysis with Python
 - ✨ Fun fact: my profile picture is my dog, Kaito!
 - ✏️ I enjoy doing illustration and character art as a hobby, which you can check out [here](https://karenspriggs.art/)
-- 👩‍💻 I'm interested in starting work as a junior software developer or game programmer
 - 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/karen-spriggs-2a914a217/) or email me at k.spriggs01@gmail.com 
 
 <!--
