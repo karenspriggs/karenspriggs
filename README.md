@@ -1,6 +1,6 @@
 ### Hi there, I'm Karen! 👋 😄
 - 🔭 I’m currently working on a few things:
-  - INARI, which you can play [here](https://bentocat.itch.io/inari)
+  - INARI, which you can play [here](https://store.steampowered.com/app/2674120/INARI/)
   - Brain Agents, which you can learn more about [here](https://www.brainagents.org/)
 - 🌱 I’m having fun learning web dev and data analysis with Python
 - ✨ Fun fact: my profile picture is my dog, Kaito!
