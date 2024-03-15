@@ -1,5 +1,5 @@
 ### Hi there, I'm Karen! 👋 😄
-- 🔭 I’m worked on a few cool things:
+- 🔭 I’ve worked on a few cool things:
   - INARI, which you can play [here](https://store.steampowered.com/app/2674120/INARI/)
   - Brain Agents, which you can learn more about [here](https://www.brainagents.org/)
 - 🌱 I’m having fun learning web dev and data analysis with Python
