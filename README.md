@@ -1,8 +1,9 @@
 ### Hi there, I'm Karen! 👋 😄
 - 🔭 I’ve worked on a few cool things:
+  - Steel Lotus DEMO COMING SOON!
   - INARI, which you can play [here](https://store.steampowered.com/app/2674120/INARI/)
   - Brain Agents, which you can learn more about [here](https://www.brainagents.org/)
-- 🌱 I’m having fun learning web dev and data analysis with Python
+- 🌱 I'm learning NextJS for web dev and en route to get an AWS Cloud Practitioner certification
 - ✨ Fun fact: my profile picture is my dog, Kaito!
 - ✏️ I enjoy doing illustration and character art as a hobby, which you can check out [here](https://karenspriggs.art/)
 - 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/karen-spriggs-2a914a217/) or email me at k.spriggs01@gmail.com 
