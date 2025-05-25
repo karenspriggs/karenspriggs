@@ -4,7 +4,7 @@
   - INARI, which you can play [here](https://store.steampowered.com/app/2674120/INARI/)
   - Brain Agents, which you can learn more about [here](https://www.brainagents.org/)
 - 🎮 I co-founded my own game studio this year 
-- 🌱 I'm learning NextJS for web dev
+- 🌱 I'm building interactive websites with Tailwind and React
 - ✨ Fun fact: my profile picture is my dog, Kaito!
 - ✏️ I enjoy doing illustration and character art as a hobby, which you can check out [here](https://karenspriggs.art/)
 - 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/karen-spriggs-2a914a217/) or email me at k.spriggs01@gmail.com 
