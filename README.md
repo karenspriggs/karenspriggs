@@ -1,6 +1,6 @@
 ### Hi there, I'm Karen! 👋 😄
 - 🔭 I’ve worked on a few cool things:
-  - Steel Lotus DEMO COMING SOON!
+  - CARNiVORY - DEMO COMING SOON!
   - INARI, which you can play [here](https://store.steampowered.com/app/2674120/INARI/)
   - Brain Agents, which you can learn more about [here](https://www.brainagents.org/)
 - 🎮 I co-founded my own game studio this year 
