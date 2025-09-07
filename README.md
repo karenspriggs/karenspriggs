@@ -1,6 +1,6 @@
 ### Hi there, I'm Karen! 👋 😄
 - 🔭 I’ve worked on a few cool things:
-  - CARNiVORY, wishlist [here](https://store.steampowered.com/app/3779300/CARNiVORY/)! See us at CIGS on September 6th :)
+  - CARNiVORY, wishlist [here](https://store.steampowered.com/app/3779300/CARNiVORY/)!
   - INARI, which you can play [here](https://store.steampowered.com/app/2674120/INARI/)
   - Brain Agents, which you can learn more about [here](https://www.brainagents.org/)
 - 🎮 I co-founded my own game studio this year 
